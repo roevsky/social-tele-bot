@@ -4,19 +4,17 @@ Deploy **virtual souls** in _2 minutes_ via a Telegram interface.
 
 ... with typing indications.
 
-![Typing Indications]()
+![Typing Indications](https://github.com/roevsky/social-tele-bot/assets/135190550/e21f25fe-b2d0-4d4f-af25-f8e73643f8cd)
 
 ... and logging of the Virtual Soul's thoughts.
 
-![Logging of Thoughts]()
-
-
+![Samantha4xDemo](https://github.com/roevsky/social-tele-bot/assets/135190550/2d153e50-5824-43bb-9929-37776d0d2ea0)
 
 ## Setup
 
 ### Step 1: Clone the Repo
 ```
-git clone git@github.com:[]/social-tele-bot.git
+git clone git@github.com:roevsky/social-tele-bot.git
 cd social-tele-bot
 ```
 
