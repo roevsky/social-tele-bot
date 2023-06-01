@@ -4,11 +4,11 @@ Deploy **virtual souls** in _2 minutes_ via a Telegram interface.
 
 ... with typing indications.
 
-![Typing Indications](https://github.com/roevsky/social-tele-bot/assets/135190550/e21f25fe-b2d0-4d4f-af25-f8e73643f8cd)
+![Typing Indications](https://github.com/roevsky/social-tele-bot/assets/135190550/215a5d45-0e52-47f4-bf2a-19a639edb70b)
 
 ... and logging of the Virtual Soul's thoughts.
 
-![Samantha4xDemo](https://github.com/roevsky/social-tele-bot/assets/135190550/2d153e50-5824-43bb-9929-37776d0d2ea0)
+![Samantha4xDemo](https://github.com/roevsky/social-tele-bot/assets/135190550/349bc582-2f2a-45de-9fbe-8cf06e51f4b1)
 
 ## Setup
 
